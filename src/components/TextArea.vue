@@ -31,7 +31,7 @@
 <script>
 
 export default {
-  name: "HelloWorld",
+  name: "TextArea",
   data() {
     return {
       text: null,
